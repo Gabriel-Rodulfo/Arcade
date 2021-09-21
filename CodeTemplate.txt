@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Super Mario 64
+//Gabriel Rodulfo 
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (Tap up key) {
+    //Jump upwards 
 } else {
-    //Add event below
+    //On ground
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (catches mushroom) {
+    //Grow character
 } else {
-    //Add event below
+    //Stay normal size
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (jumps on green tube) {
+    //transfer to new location
 } else {
-    //Add event below
+    //stay in current location
 }
 
 
